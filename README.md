@@ -19,7 +19,6 @@
 
 ---
 
-## 🛠️ Tech Stack
 
 ## 🛠️ Tech Stack
 
@@ -40,13 +39,13 @@
 
 ### 🤖 AI / ML
 <p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,keras" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
 </p>
 
 ### 🧰 Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,heroku" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,heroku, googlecloud" />
   <img src="https://img.shields.io/badge/ChatGPT-OpenAI-10a37f?style=flat&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=flat&logo=githubcopilot&logoColor=white" />
 </p>
