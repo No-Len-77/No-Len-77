@@ -30,7 +30,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=No-Len-77&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=No-Len-77&show_icons=true&theme=dark&cache_seconds=86400" alt="GitHub Stats" />
   <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=No-Len-77&theme=tokyonight" />
 </p>
 
@@ -39,7 +39,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=No-Len-77&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=No-Len-77&theme=dark&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -65,14 +65,14 @@
 ## 🧠 LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/cakshatn11?theme=dark&font=Fira%20Code&ext=heatmap" />
+  <img src="https://leetcard.jacoblin.cool/cakshatn11?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
 </p>
 
 
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/No-Len-77/No-Len-77/output/github-contribution-grid-snake-dark.svg" />
+  <img src="./dist/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
 </p>
 
 ## 📫 Connect With Me
