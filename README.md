@@ -72,7 +72,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="./dist/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+  <img src="https://raw.githubusercontent.com/No-Len-77/No-Len-77/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ## 📫 Connect With Me
