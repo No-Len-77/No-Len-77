@@ -80,6 +80,8 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/akshat-chauhan01"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
   <a href="mailto:cakshatn11@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" /></a>
+  <a href="https://lichess.org/@/Akshat-0102"><img src="https://img.shields.io/badge/Lichess-Play_Chess-black?style=for-the-badge&logo=lichess" /></a>
+
 </p>
 
 ---
