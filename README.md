@@ -40,7 +40,7 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/No-Len-77/No-Len-77/main/trophies.svg" />
-</p>
+</p>>
 
 ---
 
