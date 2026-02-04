@@ -30,8 +30,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/No-Len-77/No-Len-77/main/github-stats.svg" />
-  <img src="https://raw.githubusercontent.com/No-Len-77/No-Len-77/main/streak-stats.svg" />
+  <img src="./github-stats.svg" />
+  <img src="./streak-stats.svg" />
 </p>
 
 ---
@@ -39,8 +39,8 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/No-Len-77/No-Len-77/main/trophies.svg" />
-</p>>
+  <img src="./trophies.svg" />
+</p>
 
 ---
 
