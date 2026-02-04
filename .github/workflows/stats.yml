@@ -1,0 +1,29 @@
+name: Generate Stats Cards
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 */12 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Generate GitHub stats
+        run: |
+          curl -o github-stats.svg "https://github-readme-stats.vercel.app/api?username=No-Len-77&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
+          curl -o streak-stats.svg "https://streak-stats.demolab.com?user=No-Len-77&theme=tokyonight"
+          curl -o trophies.svg "https://github-profile-trophy.vercel.app/?username=No-Len-77&theme=tokyonight&no-frame=true&row=1&column=6"
+
+      - name: Commit stats
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add *.svg
+          git commit -m "Update stats cards" || echo "No changes"
+          git push
