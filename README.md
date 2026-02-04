@@ -30,7 +30,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=No-Len-77&show_icons=true&theme=dark&cache_seconds=86400" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=No-Len-77&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
   <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=No-Len-77&theme=tokyonight" />
 </p>
 
@@ -39,7 +39,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=No-Len-77&theme=dark&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=No-Len-77&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=15" alt="GitHub Trophies" />
 </p>
 
 ---
